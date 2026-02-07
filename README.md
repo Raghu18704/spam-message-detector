@@ -82,7 +82,7 @@ spam-svm-project/
 ├── spam_classifier.ipynb
 ├── README.md
 └── requirements.txt
-
+---
 ## Author
 Raghu Ram
 BTech Student | Aspiring AI Engineer
